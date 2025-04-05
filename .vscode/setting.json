@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "myEnvironment\\Scripts\\python.exe",
+    "python.terminal.activateEnvInCurrentTerminal": true
+  }
+  
